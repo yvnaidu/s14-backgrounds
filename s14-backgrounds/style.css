@@ -1,0 +1,52 @@
+.gameChangersDiv{
+    width: 400px;
+    border: 2px solid black;
+    background-color: lightgreen;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+}
+
+.gameChangersDiv p{
+    text-align: justify;
+}
+
+
+.gameChangersPic{
+    width: 200px;
+    height: 200px;
+}
+#mainheading{
+    text-align: center;
+    background-color: red;
+    color: yellow;
+    border: 2px solid rgb(35, 26, 11);
+}
+#modiDiv{
+    border: 20px dotted brown;
+    padding: 50px;
+    background-image: url(./images/bjpLogo.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-color: orange;
+}
+#chandraBabuDiv{
+    background-image: url(./images/tdpLogo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom ;
+    border: 10px dotted black ;
+    background-color: yellow;
+    background-clip: padding-box;
+}
+#pawanKalyanDiv{
+    background-image: url(./images/janasenaLogo.png);
+    background-attachment: fixed;
+    background-color: whitesmoke;
+    border: 10px dotted black;
+    background-clip: content-box;
+
+/*body{
+    background-image: url(./images/voteLogoSmall.png);
+}*/
